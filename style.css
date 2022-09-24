@@ -1,0 +1,170 @@
+@font-face {
+    font-family:"LatoItalic" ;
+    font-display: swap;
+    font-weight: 300;
+    font-style:normal ;
+    src: url("../fonts/Lato-LightItalic.woff2") format("woff2") , url("../fonts/Lato-LightItalic.woff") format("woff");
+}
+
+
+@font-face {
+    font-family:"Lato" ;
+    src: url("../fonts/Lato-Medium.woff2") format("woff2"), url("../fonts/Lato-Medium.woff") format("woff");
+    font-display: swap;
+    font-weight: 500;
+    font-style:normal ;
+}
+
+
+
+.title {
+    position: absolute;
+    font-size: 26px;
+    color: rgba(30, 33, 44, 1);
+    padding-left: 300px;
+    padding-top:100px ;
+    padding-right: 300px;
+    font-family: "Lato";
+    text-shadow: 5px 5px 5px #8f8f8f;
+    
+   
+}
+.titlesecond {
+    font-size: 26px;
+    position: absolute;
+    font-family: "Lato";
+    color: rgba(30, 33, 44, 1);
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top:140px;
+    text-shadow: 5px 5px 5px #8f8f8f;
+}
+
+.image {
+    margin-top: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
+    max-width:650px ;
+    max-height: 320px;
+    border-radius: 10px;
+}
+
+.luctus {
+    padding-left: 300px;
+    padding-right: 300px;
+    font-family: "Lato";
+}
+
+.sapien {
+    padding-top: 20px;
+    padding-left: 300px;
+    padding-right: 300px;
+    font-family: "LatoItalic";
+}
+
+.ownimg {
+    width: 10px;
+    height:20px;
+    background-color: rgba(255, 63, 58, 1);
+    position: absolute;
+    margin-left: 300px;
+}
+
+.ownimgg {
+    width: 10px;
+    height:20px;
+    background-color: rgba(255, 63, 58, 1);
+    position: absolute;
+    margin-left: 320px;
+}
+
+.dolor {
+    font-family: 'Lato';
+    padding-left: 350px;
+    padding-right: 300px;
+}
+
+.amet {
+    color: #424551;
+    font-family: "LatoItalic";
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 20px;
+}
+
+.morbi {
+    font-family:"LatoItalic";
+    padding-left: 350px;
+    padding-right: 300px;
+    padding-top: 16px;
+}
+
+
+.massa {
+    font-family:"LatoItalic";
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 20px;
+}
+
+.finish {
+    width: 680px;
+    height: 200px;
+    background-color:#E5E5E5 ;
+    margin-top: 30px;
+    margin-left: 300px;
+    border: 5px dashed #424551;
+}
+
+
+.first {
+    text-decoration: none;
+    color: black;
+    font-family:cursive;
+    padding-left: 100px;
+    position: absolute;
+    padding-top: 50px;
+    
+}
+   
+.second {
+    text-decoration: none;
+    position: absolute;
+    color: black;
+    font-family:cursive;
+    padding-left: 100px;
+    padding-top: 70px;
+    
+}
+
+.third {
+    text-decoration: none;
+    position: absolute;
+    color: black;
+    font-family:cursive;
+    padding-left: 100px;
+    padding-top: 90px;
+}
+
+.fourth {
+    text-decoration: none;
+    position: absolute;
+    color: black;
+    font-family:cursive;
+    padding-left: 100px;
+    padding-top: 110px;
+}
+
+.imagey {
+    width: 200px;
+    height: 200px;
+    padding-left: 240px;
+    padding-top: 20px;
+    position: absolute
+}
+
+.consectetur {
+    font-family:"LatoItalic" ;
+    padding-left: 450px;
+    padding-top: 20px;
+}
